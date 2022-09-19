@@ -1,0 +1,3 @@
+*.cginc linguist-detectable=false
+*.aspx linguist-detectable=false
+*.shader linguist-detectable=false
