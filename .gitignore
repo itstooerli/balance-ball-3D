@@ -5,3 +5,4 @@ obj/
 *.csproj
 *.docx
 *.sln
+.vs/
