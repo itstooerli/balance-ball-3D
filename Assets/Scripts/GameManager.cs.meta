@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4421130915f380b41bc8a3033470f63f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreObject: {instanceID: 0}
+  - timerObject: {instanceID: 0}
+  - LoseAudio: {fileID: 8300000, guid: c31dfc1d753fcf84f8c7fd9ddc8a6d62, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b6125145934326846b8b60f5532f860c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LevelUpAudio: {fileID: 8300000, guid: af9b470c3c94c714c8bf90312cf0bfe1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

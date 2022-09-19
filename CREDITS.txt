@@ -1,0 +1,12 @@
+Thanks to the below authors for their assets:
+
+## Sprites ##
+
+## Audio ##
+-- Score and Time [Game Sound Solution] - Unity Asset Store
+-- Score Beep [edwardszakal] - https://freesound.org/people/edwardszakal/sounds/514160/
+-- Video Game - Die or Lose Life [AdamWeeden] - https://freesound.org/people/AdamWeeden/sounds/157218/
+
+## Animations & Code ##
+-- While no code was outright copied, many concepts were leveraged from this source by Carlos Yanez:
+https://code.tutsplus.com/tutorials/develop-a-monkey-ball-inspired-game-with-unity--cms-21416
