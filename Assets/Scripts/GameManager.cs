@@ -95,6 +95,10 @@ public class GameManager : MonoBehaviour
         {
             Application.Quit();
         }
+        else if (Input.GetKeyDown(KeyCode.Return))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 
     /// <summary>
